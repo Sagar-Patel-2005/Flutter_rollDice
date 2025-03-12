@@ -15,7 +15,7 @@ A simple mobile application built using Flutter and Dart that simulates rolling 
 2. Tap the "Roll Dice" button.
 3. The dice will roll and display a random number.
 
-## Screenshots
+## Screenshot
 Here is a preview of the app:
 
 ![Roll Dice App Screenshot](Screenshot.jpg)
