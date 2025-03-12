@@ -18,7 +18,7 @@ A simple mobile application built using Flutter and Dart that simulates rolling 
 ## Screenshots
 Here is a preview of the app:
 
-![Roll Dice App Screenshot](assets/screenshot.png)
+![Roll Dice App Screenshot](Screenshot.jpg)
 
 
 ### Happy coding! 🎲
